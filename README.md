@@ -1,3 +1,3 @@
 # login
-Projeto Java EE.
-Testado e funcionando offline.
+Projeto Login Java EE.
+Testado e funcionando offline. 
